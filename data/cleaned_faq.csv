@@ -1,0 +1,315 @@
+id,category,question,answer,clean_question
+1,Greetings,Hello,Hello! How can I assist you today?,hello
+2,Greetings,Hi,Hi there! How may I help you?,hi
+3,Greetings,Good morning,Good morning! What can I help you with today?,good morning
+4,Greetings,Good afternoon,Good afternoon! How can I assist you?,good afternoon
+5,Greetings,Good evening,Good evening! How may I be of service?,good evening
+6,Greetings,Hey,Hey! How can I help you out today?,hey
+7,Greetings,Is anyone there?,"Yes, I'm here! How can I help you?",is anyone there
+8,Greetings,I need help,I would be happy to help. What do you need assistance with?,i need help
+9,Greetings,Can you help me?,Absolutely! Please let me know what you need help with.,can you help me
+10,Greetings,Greetings,Greetings! How can I assist you today?,greetings
+11,Account,How do I reset my password?,"Click ""Forgot Password"" on the login page and follow the instructions sent to your email.",how do i reset my password
+12,Account,I forgot my password,"No problem! Just click ""Forgot Password"" on the login screen to receive a reset link.",i forgot my password
+13,Account,Can you help me reset my password?,"To reset your password, please go to the login page and click on ""Forgot Password"".",can you help me reset my password
+14,Account,How do I create an account?,"Click the ""Sign Up"" button at the top right of the homepage and fill in your details.",how do i create an account
+15,Account,I want to register a new account,"You can register by clicking ""Sign Up"" on our homepage and providing your email and a secure password.",i want to register a new account
+16,Account,Where do I sign up?,"Look for the ""Sign Up"" or ""Register"" button in the top right corner of our website.",where do i sign up
+17,Account,How do I update my profile information?,"Log in, go to ""My Account"", and select ""Profile Settings"" to update your details.",how do i update my profile information
+18,Account,I need to change my email address,"You can update your email address in the ""Profile Settings"" section under ""My Account"".",i need to change my email address
+19,Account,How do I change my phone number?,"Navigate to ""My Account"", click ""Profile Settings"", and update your phone number there.",how do i change my phone number
+20,Account,Can I update my billing address?,"Yes, you can manage your addresses in the ""Address Book"" section of your account settings.",can i update my billing address
+21,Account,How do I delete my account?,"To delete your account, please contact our support team directly or go to ""Privacy Settings"" in your account.",how do i delete my account
+22,Account,I want to close my account,"We're sorry to see you go! You can close your account under ""Privacy Settings"" or by contacting support.",i want to close my account
+23,Account,Can you deactivate my account?,"You can deactivate your account temporarily or permanently in your account's ""Privacy Settings"".",can you deactivate my account
+24,Account,Where can I view my past orders?,"Log in to your account and click on ""Order History"" to view all your past purchases.",where can i view my past orders
+25,Account,How do I check my order history?,"Your order history is available under the ""My Orders"" tab in your account dashboard.",how do i check my order history
+26,Account,I want to see what I bought last month,"You can filter your past purchases by date in the ""Order History"" section of your account.",i want to see what i bought last month
+27,Account,What are loyalty points?,"Loyalty points are rewards you earn on every purchase, which can be redeemed for discounts.",what are loyalty points
+28,Account,How do I earn reward points?,You earn points automatically with every purchase you make while logged into your account.,how do i earn reward points
+29,Account,How can I redeem my loyalty points?,You can apply your available loyalty points at checkout to receive a discount on your order.,how can i redeem my loyalty points
+30,Account,My account is locked,"If your account is locked due to multiple failed login attempts, please wait 30 minutes or reset your password.",my account is locked
+31,Account,I can't log in to my account,"Please ensure your email and password are correct. If you still can't log in, try resetting your password.",i cant log in to my account
+32,Account,Why is my account suspended?,Accounts may be suspended for policy violations. Please contact customer support for more information.,why is my account suspended
+33,Account,How do I subscribe to the newsletter?,You can subscribe by entering your email address in the footer of our website.,how do i subscribe to the newsletter
+34,Account,I want to unsubscribe from marketing emails,"Click the ""Unsubscribe"" link at the bottom of any marketing email you receive from us.",i want to unsubscribe from marketing emails
+35,Account,Stop sending me emails,"You can manage your email preferences in your account settings or click ""Unsubscribe"" in our emails.",stop sending me emails
+36,Orders,Where is my order?,"Go to ""My Orders"" to view the latest tracking information for your package.",where is my order
+37,Orders,Track my order,"You can track your order by clicking the tracking link in your shipping confirmation email or via ""My Orders"".",track my order
+38,Orders,Has my order shipped yet?,"Check the status of your order in the ""My Orders"" section. It will say ""Shipped"" once it leaves our warehouse.",has my order shipped yet
+39,Orders,When will my order arrive?,Estimated delivery dates are provided at checkout and can be viewed in your order tracking details.,when will my order arrive
+40,Orders,I haven't received my order,"If your order is past the estimated delivery date, please check the tracking link or contact support.",i havent received my order
+41,Orders,Can I cancel my order?,"Orders can be canceled within 1 hour of placement. Go to ""My Orders"" and click ""Cancel Order"".",can i cancel my order
+42,Orders,I want to cancel my purchase,"If it has been less than an hour, you can cancel via ""My Orders"". Otherwise, you may need to initiate a return.",i want to cancel my purchase
+43,Orders,How do I stop my order from shipping?,"Please cancel your order immediately in ""My Orders"". If it has already shipped, it cannot be stopped.",how do i stop my order from shipping
+44,Orders,Is it too late to cancel?,"Orders process quickly. If the ""Cancel"" button is no longer visible in your account, it's too late to cancel.",is it too late to cancel
+45,Orders,I canceled my order but didn't get a refund,Refunds for canceled orders take 3-5 business days to process depending on your bank.,i canceled my order but didnt get a refund
+46,Orders,Can I change the size of the item I ordered?,We cannot modify items in an order once placed. Please cancel and reorder within 1 hour.,can i change the size of the item i ordered
+47,Orders,I ordered the wrong color,"To change a color, please cancel the original order within 1 hour and place a new one.",i ordered the wrong color
+48,Orders,Can I add an item to my existing order?,We cannot add items to an existing order. Please place a separate order for the additional items.,can i add an item to my existing order
+49,Orders,How do I change my shipping address on an order?,"You can update the shipping address within 1 hour of ordering via the ""My Orders"" page.",how do i change my shipping address on an order
+50,Orders,I put the wrong address on my order,"If the order hasn't shipped, update it in ""My Orders"". If it has, contact the courier immediately.",i put the wrong address on my order
+51,Orders,An item is missing from my package,We apologize! Please contact support with your order number and we will resolve this immediately.,an item is missing from my package
+52,Orders,I didn't receive everything I ordered,"Sometimes items ship separately. Check your tracking for multiple packages. If not, contact support.",i didnt receive everything i ordered
+53,Orders,Part of my order is missing,"Please check if your order was split into multiple shipments. If all shipments arrived, contact customer service.",part of my order is missing
+54,Orders,I received the wrong item,We're sorry for the mix-up. Please initiate a return for the wrong item and contact support for a replacement.,i received the wrong item
+55,Orders,This is not what I ordered,Please send us a photo of the incorrect item and your order number so we can send the correct product.,this is not what i ordered
+56,Orders,You sent me the wrong size,Apologies! Please use our returns portal to send back the wrong size and we will ship the correct one.,you sent me the wrong size
+57,Orders,My order arrived damaged,Please contact support within 48 hours with photos of the damaged item and packaging for a replacement.,my order arrived damaged
+58,Orders,The product is broken,We are sorry your item arrived broken. Send us a picture and your order number for a full refund or replacement.,the product is broken
+59,Orders,Did my order go through?,"If your order was successful, you will receive a confirmation email and see it in your ""Order History"".",did my order go through
+60,Orders,I didn't get a confirmation email,"Please check your spam folder. If it's not there, verify your email address in your profile or contact support.",i didnt get a confirmation email
+61,Orders,Where is my receipt?,"Your receipt is emailed to you upon purchase and can also be downloaded from your ""Order History"".",where is my receipt
+62,Orders,Can I get a gift receipt?,"Yes, you can select ""Gift Options"" at checkout to include a gift receipt without prices.",can i get a gift receipt
+63,Orders,Do you offer gift wrapping?,"Yes, gift wrapping is available for an additional fee at checkout.",do you offer gift wrapping
+64,Orders,Is it possible to delay my order shipment?,"Currently, we cannot delay or schedule shipments for a specific future date.",is it possible to delay my order shipment
+65,Orders,Can I pick up my order in store?,"If you live near a retail location, you can select ""BOPIS"" (Buy Online, Pick Up In Store) at checkout.",can i pick up my order in store
+66,Shipping,How long does shipping take?,"Standard shipping takes 3-5 business days, while expedited shipping takes 1-2 business days.",how long does shipping take
+67,Shipping,What are your delivery times?,We deliver Monday through Friday between 8 AM and 8 PM.,what are your delivery times
+68,Shipping,Do you deliver on weekends?,Weekend delivery depends on the courier and your location. It is typically only available for expedited shipping.,do you deliver on weekends
+69,Shipping,Why is my shipping taking so long?,"Delays can happen due to weather, high volume, or courier issues. Please check your tracking link for updates.",why is my shipping taking so long
+70,Shipping,How much is shipping?,"Standard shipping is $5.99, but it is free for orders over $50.",how much is shipping
+71,Shipping,Do you offer free shipping?,"Yes, we offer free standard shipping on all orders over $50.",do you offer free shipping
+72,Shipping,What is the cost for expedited shipping?,"Expedited 2-day shipping costs $15, and Next-Day delivery costs $25.",what is the cost for expedited shipping
+73,Shipping,Why was I charged for shipping?,"If your order total after discounts was under $50, the standard shipping fee applies.",why was i charged for shipping
+74,Shipping,Do you ship internationally?,"Yes, we ship to over 100 countries. International shipping rates are calculated at checkout.",do you ship internationally
+75,Shipping,How much is international shipping?,International shipping costs vary by destination and weight. You will see the exact cost at checkout.,how much is international shipping
+76,Shipping,Will I have to pay customs fees?,"International orders may be subject to import taxes or customs duties, which are the buyer's responsibility.",will i have to pay customs fees
+77,Shipping,Do you ship to P.O. boxes?,"Yes, standard shipping is available to P.O. boxes, but expedited shipping requires a physical address.",do you ship to po boxes
+78,Shipping,Can I change my shipping address after it ships?,"Once an order has shipped, we cannot change the address. You can try contacting the courier directly to reroute it.",can i change my shipping address after it ships
+79,Shipping,The tracking says delivered but I don't have it,"Please check with neighbors or your building manager. If it's still missing after 24 hours, contact support.",the tracking says delivered but i dont have it
+80,Shipping,My package was stolen,"If your package was marked delivered but is missing, please contact support so we can open an investigation.",my package was stolen
+81,Shipping,Who delivers your packages?,"We partner with major carriers including UPS, FedEx, and USPS depending on the shipping method chosen.",who delivers your packages
+82,Shipping,Can I choose my courier?,"Currently, our system automatically selects the best courier based on your location and shipping speed.",can i choose my courier
+83,Shipping,Do you require a signature for delivery?,Signatures are only required for orders over $500 or if specifically requested by the customer.,do you require a signature for delivery
+84,Shipping,What happens if I'm not home for delivery?,The courier will usually leave the package in a secure location or leave a note with redelivery instructions.,what happens if im not home for delivery
+85,Shipping,Do you offer same-day delivery?,Same-day delivery is available in select zip codes for orders placed before 12 PM local time.,do you offer sameday delivery
+86,Payments,What payment methods do you accept?,"We accept Visa, MasterCard, American Express, Discover, PayPal, and Apple Pay.",what payment methods do you accept
+87,Payments,Can I pay with PayPal?,"Yes, you can select PayPal as your payment method during checkout.",can i pay with paypal
+88,Payments,Do you accept Apple Pay?,"Yes, Apple Pay is available for customers shopping on compatible Apple devices.",do you accept apple pay
+89,Payments,Can I use a debit card?,"Yes, we accept all major debit cards that feature a Visa or MasterCard logo.",can i use a debit card
+90,Payments,Do you offer financing or installment plans?,"Yes, we partner with Klarna and Afterpay to offer ""Buy Now, Pay Later"" installment plans.",do you offer financing or installment plans
+91,Payments,My payment was declined,"Please double-check your billing address and card details. If it still fails, contact your bank.",my payment was declined
+92,Payments,Why is my card not working?,"Cards can be declined for insufficient funds, incorrect CVV, or anti-fraud blocks. Please contact your card issuer.",why is my card not working
+93,Payments,I keep getting a payment error,"Try clearing your browser cache or using a different browser. If the issue persists, try an alternative payment method.",i keep getting a payment error
+94,Payments,You charged me twice,"If you see duplicate charges, one is likely a pending authorization that will drop off in 2-3 business days.",you charged me twice
+95,Payments,Why is there a pending charge on my canceled order?,"When you cancel an order, the pending authorization may take up to 5 business days to disappear from your statement.",why is there a pending charge on my canceled order
+96,Payments,How do I apply a promo code?,"Enter your promo code in the ""Discount Code"" box at checkout and click ""Apply"".",how do i apply a promo code
+97,Payments,My discount code isn't working,"Ensure the code hasn't expired, is spelled correctly, and applies to the items in your cart. Some codes cannot be combined.",my discount code isnt working
+98,Payments,Can I use multiple promo codes?,"No, our system only allows one promo code to be applied per order.",can i use multiple promo codes
+99,Payments,I forgot to add my promo code,"If your order hasn't shipped yet, contact support and we can apply the valid promo code to your recent order.",i forgot to add my promo code
+100,Payments,Where can I find discount codes?,Sign up for our newsletter or follow us on social media to receive the latest promotional codes and offers.,where can i find discount codes
+101,Payments,How do I get an invoice for my company?,"You can download a VAT/commercial invoice directly from the ""Order History"" section of your account.",how do i get an invoice for my company
+102,Payments,Is it safe to use my credit card on your site?,"Yes, our checkout is protected by industry-standard 256-bit SSL encryption to ensure your data is secure.",is it safe to use my credit card on your site
+103,Payments,Do you store my credit card information?,We do not store your full credit card number. Payment data is tokenized and securely handled by our payment gateway.,do you store my credit card information
+104,Payments,Can I pay with store credit?,"Yes, if you have a store credit balance, you can select it as a payment option during checkout.",can i pay with store credit
+105,Payments,How do I check my gift card balance?,"You can check your gift card balance in your account dashboard under the ""Gift Cards"" tab.",how do i check my gift card balance
+106,Returns & Refunds,What is your return policy?,"We accept returns of unworn, unwashed items with tags attached within 30 days of delivery.",what is your return policy
+107,Returns & Refunds,How many days do I have to return an item?,You have 30 days from the date of delivery to initiate a return.,how many days do i have to return an item
+108,Returns & Refunds,Can I return a final sale item?,"No, items marked as ""Final Sale"" cannot be returned or exchanged.",can i return a final sale item
+109,Returns & Refunds,How do I return an item?,"Visit our Returns Center online, enter your order number, and print the prepaid shipping label.",how do i return an item
+110,Returns & Refunds,Where do I get a return label?,You can generate and print a prepaid return shipping label via our online Returns Portal.,where do i get a return label
+111,Returns & Refunds,Do I have to pay for return shipping?,"Returns are free if you opt for store credit. If you want a refund to your original payment method, a $5 fee is deducted.",do i have to pay for return shipping
+112,Returns & Refunds,Can I return online purchases in-store?,"Yes, you can bring your online order and digital receipt to any of our retail locations for a free return.",can i return online purchases instore
+113,Returns & Refunds,When will I receive my refund?,Refunds are usually processed within 5-7 business days after we receive your returned item.,when will i receive my refund
+114,Returns & Refunds,Where is my refund?,"If you have received a refund confirmation email, please allow 3-5 business days for your bank to post the funds.",where is my refund
+115,Returns & Refunds,Why hasn't my refund shown up yet?,"Refund processing times depend on your financial institution. If it's been over 10 days, please contact your bank.",why hasnt my refund shown up yet
+116,Returns & Refunds,Will my shipping fee be refunded?,Original shipping fees are non-refundable unless the return is due to an error on our part or a defective item.,will my shipping fee be refunded
+117,Returns & Refunds,Can I exchange an item?,"Yes, we offer free exchanges for different sizes or colors within 30 days. Select ""Exchange"" in the Returns Portal.",can i exchange an item
+118,Returns & Refunds,How do I swap my item for a different size?,"Go to our Returns Center, select the item you want to send back, and choose your new size for an exchange.",how do i swap my item for a different size
+119,Returns & Refunds,I received a defective item what do I do?,"Please contact support with photos of the defect within 30 days, and we will send a replacement free of charge.",i received a defective item what do i do
+120,Returns & Refunds,My item broke after one use,"We stand by our quality. Contact customer service with photos, and we'll issue a refund or replacement for faulty items.",my item broke after one use
+121,Returns & Refunds,Can I return a gift?,"Yes, you can return a gift for store credit. You will need the order number or the purchaser's email address.",can i return a gift
+122,Returns & Refunds,I want to return a gift without the sender knowing,"Process the return as a ""Gift Return"" in our portal using the order number. The refund will be issued to you as store credit.",i want to return a gift without the sender knowing
+123,Returns & Refunds,Do I need the original packaging to return?,"While preferred, it is not required. However, items must be securely packaged to avoid damage in transit.",do i need the original packaging to return
+124,Returns & Refunds,Can I return multiple orders in one box?,"To ensure accurate processing, please return items from different orders in separate boxes with their respective labels.",can i return multiple orders in one box
+125,Returns & Refunds,I returned the wrong item by mistake,Please contact customer service immediately. We will do our best to intercept the package and return your item to you.,i returned the wrong item by mistake
+126,Returns & Refunds,How will I be refunded?,"Refunds are issued back to the original form of payment used for the purchase, or as store credit if requested.",how will i be refunded
+127,Returns & Refunds,Can you refund to a different card?,"For security reasons, we can only refund the original payment method or issue store credit.",can you refund to a different card
+128,Returns & Refunds,My credit card was canceled how do I get my refund?,Refunds sent to a closed account are usually forwarded to your new account or mailed as a check by your bank.,my credit card was canceled how do i get my refund
+129,Returns & Refunds,What items are non-returnable?,"Intimates, earrings, personalized items, and clearance goods marked ""Final Sale"" cannot be returned.",what items are nonreturnable
+130,Returns & Refunds,Can I return worn shoes?,Shoes must be returned in unworn condition. We recommend trying them on indoors on a carpeted surface.,can i return worn shoes
+131,Technical Support,The website is not loading,"Please try clearing your browser cache and cookies, or try accessing the site in Incognito mode.",the website is not loading
+132,Technical Support,Why is the site so slow?,We may be experiencing high traffic. Please refresh the page or try again in a few minutes.,why is the site so slow
+133,Technical Support,The mobile app keeps crashing,Please ensure you have the latest version of our app installed. Try uninstalling and reinstalling if the issue persists.,the mobile app keeps crashing
+134,Technical Support,I can't open the app,Restart your device and check for updates in the App Store or Google Play. Contact us if it still won't open.,i cant open the app
+135,Technical Support,Items disappear from my cart,This can happen if your browser blocks cookies or a session expires. Try logging into your account to save your cart.,items disappear from my cart
+136,Technical Support,I can't add items to my cart,Clear your browser cache or try a different browser. Ensure the item is actually in stock before adding.,i cant add items to my cart
+137,Technical Support,The checkout page is frozen,"Please do not hit back or refresh. If it stays frozen for over 5 minutes, close the tab and try again.",the checkout page is frozen
+138,Technical Support,I keep getting a 404 error,A 404 error means the page no longer exists. Please use the search bar to find the product you are looking for.,i keep getting a 404 error
+139,Technical Support,My screen says 500 Internal Server Error,This is a temporary issue on our end. Please wait a few minutes and try refreshing the page.,my screen says 500 internal server error
+140,Technical Support,Why is my password not working?,"Passwords are case sensitive. Make sure Caps Lock is off. If it still fails, use the password reset link.",why is my password not working
+141,Technical Support,I didn't get the password reset email,"Check your spam/junk folder. If it's not there, ensure you entered the exact email address used to register.",i didnt get the password reset email
+142,Technical Support,Your website looks weird on my phone,"Our site is optimized for modern browsers like Chrome, Safari, and Firefox. Please ensure your browser is up to date.",your website looks weird on my phone
+143,Technical Support,I can't click the checkout button,Make sure all required fields (like shipping method and address) are filled out. Missing fields can disable the button.,i cant click the checkout button
+144,Technical Support,Promo code box isn't showing up,The promo code box is located on the right side of the checkout page above your subtotal. It may be collapsed on mobile.,promo code box isnt showing up
+145,Technical Support,Is there an issue with your servers right now?,"You can check our system status page. If there is scheduled maintenance, a banner will be displayed on the homepage.",is there an issue with your servers right now
+146,Technical Support,I can't upload a picture for my custom order,Please ensure your image is in JPG or PNG format and is under 5MB in size.,i cant upload a picture for my custom order
+147,Technical Support,The search bar isn't working,"Try typing a broader keyword. If the technical glitch persists, try clearing your browser's cache.",the search bar isnt working
+148,Technical Support,How do I clear my cache?,"In most browsers, press Ctrl+Shift+Delete (Windows) or Cmd+Shift+Delete (Mac) to access the clear cache menu.",how do i clear my cache
+149,Technical Support,My account language changed,Scroll to the very bottom of the homepage and select your preferred language from the dropdown menu.,my account language changed
+150,Technical Support,Currency is displaying incorrectly,You can change the displayed currency using the selector at the top right corner of the website.,currency is displaying incorrectly
+151,Contact & General,How do I contact customer service?,"You can reach us via live chat, email at support@example.com, or call us at 1-800-555-0199.",how do i contact customer service
+152,Contact & General,I want to talk to a human,"Please type ""agent"" in the chat to be transferred, or call our support line during business hours.",i want to talk to a human
+153,Contact & General,Can I call you?,"Yes, our customer service phone number is 1-800-555-0199.",can i call you
+154,Contact & General,What is your phone number?,You can reach our support team directly at 1-800-555-0199.,what is your phone number
+155,Contact & General,What are your business hours?,"Our customer support team is available Monday through Friday, 8 AM to 8 PM EST.",what are your business hours
+156,Contact & General,Are you open on weekends?,"Our live chat and phone support are closed on weekends, but you can always email us and we will reply Monday.",are you open on weekends
+157,Contact & General,Where are you located?,"Our headquarters is located in New York City, with fulfillment centers across the country.",where are you located
+158,Contact & General,Do you have physical stores?,"Yes, we have retail locations in New York, Los Angeles, and Chicago. Check our ""Store Locator"" page.",do you have physical stores
+159,Contact & General,Can I visit your store?,Absolutely! Use our store locator on the website to find the location and hours of a store near you.,can i visit your store
+160,Contact & General,How long does it take to get an email reply?,We aim to respond to all email inquiries within 24 business hours.,how long does it take to get an email reply
+161,Contact & General,I emailed but nobody replied,"We apologize for the delay. Please check your spam folder, or reach out via live chat for immediate assistance.",i emailed but nobody replied
+162,Contact & General,Do you offer wholesale accounts?,"Yes, we do! Please visit our B2B Wholesale page and submit an application.",do you offer wholesale accounts
+163,Contact & General,I want to buy in bulk,"For bulk purchases, please contact our sales team at sales@example.com for potential discounts.",i want to buy in bulk
+164,Contact & General,Do you do corporate gifting?,"Yes, we offer specialized corporate gifting packages. Please email corporate@example.com for a catalog.",do you do corporate gifting
+165,Contact & General,Are your products authentic?,"Yes, we are an authorized retailer for all the brands we carry, guaranteeing 100% authenticity.",are your products authentic
+166,Contact & General,Is this a scam website?,"We are a verified, legitimate business operating for over 10 years with thousands of positive reviews.",is this a scam website
+167,Contact & General,Where can I read reviews?,"You can read customer reviews on each product page, or visit our Trustpilot profile for company reviews.",where can i read reviews
+168,Contact & General,How do I leave a review?,"A few days after your purchase, you will receive an email with a link to review the items you bought.",how do i leave a review
+169,Contact & General,Do you price match?,We price match identical items from authorized major retailers within 7 days of purchase.,do you price match
+170,Contact & General,Does your company care about sustainability?,"Yes, we use 100% recyclable packaging and offset our carbon emissions for all shipping.",does your company care about sustainability
+173,Greetings,Hey there,Hey! What can I help you with today?,hey there
+178,Greetings,Thank you,You're welcome! Is there anything else I can help with?,thank you
+179,Greetings,Thanks for your help,Happy to help! Let me know if you need anything else.,thanks for your help
+180,Greetings,"Bye, see you later","Goodbye! Have a great day, and feel free to come back anytime.",bye see you later
+182,Account,"I forgot my password, what do I do?","Go to the login page and select ""Forgot Password"" to receive a reset link via email.",i forgot my password what do i do
+183,Account,How can I change my password?,"Log in, go to ""Account Settings,"" and select ""Change Password"" to update it.",how can i change my password
+185,Account,I want to sign up for a new account,"You can register by clicking ""Sign Up"" and filling in your name, email, and password.",i want to sign up for a new account
+187,Account,Can I close my account permanently?,"Yes, you can permanently close your account from Account Settings > Privacy > Delete Account.",can i close my account permanently
+188,Account,How do I update my email address?,"Go to ""Account Settings"" > ""Personal Information"" to update your registered email address.",how do i update my email address
+189,Account,How do I change my phone number on file?,"Navigate to ""Account Settings"" > ""Personal Information"" and edit your phone number.",how do i change my phone number on file
+190,Account,How do I update my shipping address?,"Go to ""Account Settings"" > ""Addresses"" to add, edit, or remove saved addresses.",how do i update my shipping address
+191,Account,Can I have multiple saved addresses?,"Yes, you can save multiple addresses under ""Account Settings"" > ""Addresses"" and choose one at checkout.",can i have multiple saved addresses
+192,Account,Why can't I log into my account?,"Double-check your email and password. If the issue continues, reset your password or contact support.",why cant i log into my account
+193,Account,"My account is locked, what should I do?",Accounts are usually locked after multiple failed login attempts. Reset your password or contact support to unlock it.,my account is locked what should i do
+194,Account,How do I verify my email address?,Check your inbox for a verification email and click the confirmation link. You can resend it from the login page if needed.,how do i verify my email address
+195,Account,I didn't receive my verification email,"Check your spam folder first. If it's not there, click ""Resend Verification Email"" on the login page.",i didnt receive my verification email
+196,Account,How do I enable two-factor authentication?,"Go to ""Account Settings"" > ""Security"" and turn on two-factor authentication for added protection.",how do i enable twofactor authentication
+197,Account,Is two-factor authentication required?,Two-factor authentication is optional but highly recommended for extra account security.,is twofactor authentication required
+198,Account,Can I merge two accounts into one?,"Currently, accounts cannot be merged. Please continue using your primary account for future orders.",can i merge two accounts into one
+199,Account,How do I update my saved payment methods?,"Go to ""Account Settings"" > ""Payment Methods"" to add, edit, or remove cards.",how do i update my saved payment methods
+200,Account,How can I view my order history?,"Go to ""My Orders"" in your account dashboard to see all past and current orders.",how can i view my order history
+201,Account,Can I change my username?,"Usernames are tied to your email and cannot be changed directly, but you can update your display name in Account Settings.",can i change my username
+203,Account,How do I unsubscribe from marketing emails?,"Click ""Unsubscribe"" at the bottom of any marketing email, or turn it off in ""Communication Preferences.""",how do i unsubscribe from marketing emails
+204,Account,Is my personal information secure?,"Yes, we use industry-standard encryption to protect your personal and payment information.",is my personal information secure
+205,Account,How do I update my date of birth or personal details?,"Go to ""Account Settings"" > ""Personal Information"" to update your profile details.",how do i update my date of birth or personal details
+207,Orders,How do I track my package?,"Visit ""My Orders,"" select the order, and click ""Track Package"" for live updates.",how do i track my package
+208,Orders,Can you tell me the status of my order?,"You can check real-time order status anytime under ""My Orders.""",can you tell me the status of my order
+209,Orders,How do I place an order?,"Add items to your cart, proceed to checkout, enter your shipping and payment details, and confirm your purchase.",how do i place an order
+211,Orders,How do I cancel an order I just placed?,"Orders can be cancelled within a short window after purchase from ""My Orders,"" as long as they haven't shipped.",how do i cancel an order i just placed
+212,Orders,Can I modify my order after placing it?,"Order details like size or color usually can't be changed after placing, but you can cancel and reorder if it hasn't shipped.",can i modify my order after placing it
+213,Orders,How do I add an item to an order I already placed?,"Once an order is placed, items can't be added to it. Please place a new order for additional items.",how do i add an item to an order i already placed
+214,Orders,Can I change my shipping address after ordering?,"If the order hasn't shipped yet, contact support immediately to update the shipping address.",can i change my shipping address after ordering
+215,Orders,My order shows as delivered but I haven't received it,"Please check with neighbors or your building's front desk, then contact support if you still can't locate it.",my order shows as delivered but i havent received it
+216,Orders,Why is my order delayed?,"Delays can happen due to high demand, weather, or carrier issues. Check tracking for the latest updates.",why is my order delayed
+217,Orders,How long does it take to process an order?,Orders are typically processed within 1–2 business days before shipping.,how long does it take to process an order
+218,Orders,Can I combine two orders into one shipment?,"Orders placed separately usually can't be combined, but you can contact support to check if it's still possible.",can i combine two orders into one shipment
+219,Orders,How do I view my order confirmation?,"An order confirmation is emailed to you immediately after purchase, and it's also viewable under ""My Orders.""",how do i view my order confirmation
+220,Orders,I didn't get an order confirmation email,"Check your spam folder, or view your confirmation directly under ""My Orders"" in your account.",i didnt get an order confirmation email
+221,Orders,Can I order an item that's out of stock?,"You can click ""Notify Me"" on the product page to get an alert when it's back in stock.",can i order an item thats out of stock
+222,Orders,When will an out-of-stock item be available again?,Restock timing varies by item. We recommend turning on restock notifications for updates.,when will an outofstock item be available again
+223,Orders,How do I reorder a previous purchase?,"Go to ""My Orders,"" find the past order, and click ""Buy Again.""",how do i reorder a previous purchase
+224,Orders,Can I order as a guest without an account?,"Yes, guest checkout is available, though creating an account lets you track orders more easily.",can i order as a guest without an account
+225,Orders,How do I apply a promo code to my order?,"Enter your promo code in the ""Discount Code"" field at checkout before confirming payment.",how do i apply a promo code to my order
+226,Orders,My promo code isn't working,"Check the code's expiration date and terms. If it still fails, contact support with the code and order details.",my promo code isnt working
+227,Orders,Can I split my order into multiple deliveries?,"Some orders may ship in multiple packages automatically depending on warehouse location, but you can't manually split deliveries.",can i split my order into multiple deliveries
+228,Orders,Why was my order cancelled automatically?,"Orders can be auto-cancelled due to payment issues, stock unavailability, or fraud checks. Check your email for details.",why was my order cancelled automatically
+229,Orders,How do I know if my order was successfully placed?,"You'll receive an order confirmation email, and the order will appear under ""My Orders"" with a status update.",how do i know if my order was successfully placed
+230,Orders,Can I order items for international shipping?,"Yes, international shipping is available for most items; eligible countries are shown at checkout.",can i order items for international shipping
+231,Orders,How do I request a gift receipt?,"Select ""This is a gift"" at checkout to include a gift receipt without prices.",how do i request a gift receipt
+232,Orders,Can I send an order directly to someone else's address?,"Yes, simply enter the recipient's address as the shipping address at checkout.",can i send an order directly to someone elses address
+233,Orders,How do I check what items are in my order?,"Open the order under ""My Orders"" to see a full list of items, quantities, and prices.",how do i check what items are in my order
+234,Orders,Is there a limit to how many items I can order at once?,"Most items have no strict limit, though high-demand products may have a per-customer purchase limit.",is there a limit to how many items i can order at once
+235,Orders,"My order was charged twice, what happened?",This is often a temporary authorization hold rather than a duplicate charge. Contact support if it doesn't resolve within a few days.,my order was charged twice what happened
+237,Shipping,What are your shipping options?,"We offer standard, expedited, and express shipping options at checkout.",what are your shipping options
+238,Shipping,How much does shipping cost?,"Shipping cost depends on your location, order size, and chosen delivery speed; the exact fee is shown at checkout.",how much does shipping cost
+241,Shipping,How can I track my shipment?,"Go to ""My Orders"" and click ""Track Package"" to see real-time shipment updates.",how can i track my shipment
+242,Shipping,Why hasn't my tracking updated in days?,"Tracking can lag during transit, especially with carrier handoffs. It usually updates once the package reaches the next checkpoint.",why hasnt my tracking updated in days
+243,Shipping,Can I change my delivery address after the order has shipped?,"Once an order has shipped, the delivery address can't be changed. Contact the carrier directly for redirect options if available.",can i change my delivery address after the order has shipped
+245,Shipping,Can I schedule a specific delivery date or time?,"Some expedited shipping options allow date selection at checkout, though exact time slots aren't guaranteed.",can i schedule a specific delivery date or time
+247,Shipping,What carriers do you use for shipping?,We partner with major carriers and select the best option based on your location and shipping speed.,what carriers do you use for shipping
+248,Shipping,"My package arrived damaged, what should I do?",Please contact support with photos of the damaged package so we can arrange a replacement or refund.,my package arrived damaged what should i do
+249,Shipping,My tracking says delivered but I never got it,"Check around your delivery location and with neighbors first, then contact support if it remains missing.",my tracking says delivered but i never got it
+250,Shipping,Can I pick up my order in-store instead of shipping?,In-store pickup is available for select locations and items; this option will appear at checkout if eligible.,can i pick up my order instore instead of shipping
+252,Shipping,What is the shipping cutoff time for next-day delivery?,Orders must typically be placed before the daily cutoff shown at checkout to qualify for next-day delivery.,what is the shipping cutoff time for nextday delivery
+253,Shipping,Why is my order shipping in multiple packages?,Items stored in different warehouses may ship separately to get you your order faster.,why is my order shipping in multiple packages
+254,Shipping,Can I expedite shipping after placing my order?,Shipping speed usually can't be changed after an order is placed. Contact support to see if it's still possible before dispatch.,can i expedite shipping after placing my order
+255,Shipping,Do you charge customs or import fees?,"International orders may be subject to customs duties or import taxes, which are the buyer's responsibility.",do you charge customs or import fees
+258,Payments,Do you accept Apple Pay or Google Pay?,"Yes, both Apple Pay and Google Pay are supported at checkout where available.",do you accept apple pay or google pay
+259,Payments,Why was my payment declined?,"Payments can be declined due to insufficient funds, incorrect card details, or your bank's security checks. Try another payment method or contact your bank.",why was my payment declined
+260,Payments,Is it safe to enter my card information on your site?,"Yes, all payment information is encrypted and processed through secure, PCI-compliant systems.",is it safe to enter my card information on your site
+261,Payments,Can I pay in installments?,Installment payment plans are available at checkout for eligible orders through our partnered providers.,can i pay in installments
+262,Payments,How do I update my billing address?,"Go to ""Account Settings"" > ""Payment Methods"" to update your billing address.",how do i update my billing address
+263,Payments,Can I use multiple payment methods for one order?,"Currently, only one payment method can be used per order.",can i use multiple payment methods for one order
+264,Payments,Why was I charged before my order shipped?,"Payment is typically authorized at checkout to confirm funds, even though the full order may ship later.",why was i charged before my order shipped
+265,Payments,How do I remove a saved card from my account?,"Go to ""Account Settings"" > ""Payment Methods"" and select ""Remove"" next to the card you want to delete.",how do i remove a saved card from my account
+266,Payments,Can I use a gift card to pay for my order?,"Yes, enter your gift card code in the ""Gift Card"" field at checkout to apply the balance.",can i use a gift card to pay for my order
+268,Payments,Do you accept cash on delivery?,Cash on delivery may be available in select regions; this option will appear at checkout if eligible.,do you accept cash on delivery
+269,Payments,Why does my statement show a different charge amount?,This may include currency conversion fees or split payments. Contact support with your order number for clarification.,why does my statement show a different charge amount
+270,Payments,Can I get an invoice for my order?,"Yes, you can download an invoice from ""My Orders"" by selecting the specific order.",can i get an invoice for my order
+271,Payments,Is sales tax included in the price shown?,Sales tax is calculated based on your shipping address and added at checkout before final payment.,is sales tax included in the price shown
+272,Payments,How do I update an expired credit card on file?,"Go to ""Account Settings"" > ""Payment Methods"" to remove the expired card and add a new one.",how do i update an expired credit card on file
+273,Payments,Why do I see a pending charge that hasn't gone through?,This is usually a temporary authorization hold that will clear or finalize within a few business days.,why do i see a pending charge that hasnt gone through
+274,Payments,Can I split payment between a gift card and credit card?,"Yes, gift card balances can be combined with another payment method to cover the remaining total.",can i split payment between a gift card and credit card
+275,Payments,Do prices include currency conversion for international orders?,"Prices are shown in your local currency when possible, but your bank may apply its own conversion rate and fees.",do prices include currency conversion for international orders
+279,Returns & Refunds,Can I exchange an item instead of returning it?,"Yes, select ""Exchange"" instead of ""Return"" under ""My Orders"" to choose a different size or color.",can i exchange an item instead of returning it
+280,Returns & Refunds,How do I get a refund instead of store credit?,"Select ""Refund to Original Payment Method"" when starting your return under ""My Orders.""",how do i get a refund instead of store credit
+281,Returns & Refunds,"My refund hasn't shown up yet, what should I do?","Refunds can take a few extra days to appear on your statement. If it's been over 10 business days, contact support.",my refund hasnt shown up yet what should i do
+282,Returns & Refunds,Can I return an item without the original packaging?,"Items are best returned in original packaging, but some items may still be accepted on a case-by-case basis.",can i return an item without the original packaging
+283,Returns & Refunds,Is return shipping free?,Return shipping is free for most items; a prepaid label is provided when you start your return.,is return shipping free
+284,Returns & Refunds,Can I return a sale or clearance item?,"Sale and clearance items are typically final sale, but exceptions may apply, shown on the product page.",can i return a sale or clearance item
+285,Returns & Refunds,How do I print my return shipping label?,"After starting a return under ""My Orders,"" you can download and print the prepaid shipping label.",how do i print my return shipping label
+286,Returns & Refunds,What if I lost my return shipping label?,"You can re-download your return label anytime from ""My Orders"" under the return details.",what if i lost my return shipping label
+287,Returns & Refunds,Can I return a gift I received?,"Yes, gifts can be returned using the gift receipt or order number, even without the original purchaser's account.",can i return a gift i received
+288,Returns & Refunds,How long do I have to return an item?,Most items can be returned within 30 days of the delivery date.,how long do i have to return an item
+289,Returns & Refunds,Why was my refund amount less than I expected?,"Refunds may exclude original shipping fees or restocking charges, depending on the return reason.",why was my refund amount less than i expected
+290,Returns & Refunds,"Can I return an item I bought in-store to your website, or vice versa?",Items purchased online can usually be returned by mail; in-store purchases should be returned to a physical location.,can i return an item i bought instore to your website or vice versa
+291,Returns & Refunds,How do I cancel a return request I already started?,"Go to ""My Orders,"" open the return details, and select ""Cancel Return"" if it hasn't been shipped back yet.",how do i cancel a return request i already started
+292,Returns & Refunds,What items are not eligible for return?,"Items like personal care products, perishables, and customized goods are generally not eligible for return.",what items are not eligible for return
+293,Returns & Refunds,"I received the wrong item, what do I do?",We're sorry for the mix-up! Please contact support with your order number so we can send the correct item or process a refund.,i received the wrong item what do i do
+294,Returns & Refunds,"My item arrived defective, can I get a replacement?","Yes, defective items are eligible for a free replacement or full refund. Please contact support with photos of the issue.",my item arrived defective can i get a replacement
+295,Returns & Refunds,How do I track my return shipment?,Use the tracking number provided with your return label to monitor its progress back to our warehouse.,how do i track my return shipment
+296,Returns & Refunds,Can I get a partial refund instead of returning the item?,"For minor issues, partial refunds may be offered instead of a full return. Contact support to check eligibility.",can i get a partial refund instead of returning the item
+297,Returns & Refunds,Do I need a reason to return an item?,"A return reason helps us improve, but most returns can be processed even with a general reason selected.",do i need a reason to return an item
+298,Returns & Refunds,Will I get my refund in the original currency?,"Yes, refunds are issued in the same currency and to the same payment method used for the original purchase.",will i get my refund in the original currency
+299,Returns & Refunds,How long does it take to process a returned item once you receive it?,"Once your return is received at our warehouse, refunds are typically processed within 5–7 business days.",how long does it take to process a returned item once you receive it
+300,Returns & Refunds,Can I return part of an order and keep the rest?,"Yes, you can select specific items from a multi-item order to return while keeping the others.",can i return part of an order and keep the rest
+301,Technical Support,"The website isn't loading, what should I do?","Try refreshing the page or clearing your browser cache. If the issue persists, it may be a temporary outage.",the website isnt loading what should i do
+302,Technical Support,"The app keeps crashing, how do I fix it?","Try closing and reopening the app, or updating to the latest version from your app store.",the app keeps crashing how do i fix it
+304,Technical Support,Why is checkout not working?,"Checkout issues are often caused by browser cache, an expired session, or payment validation errors. Try refreshing or using a different browser.",why is checkout not working
+305,Technical Support,I'm getting an error message during checkout,"Please note the exact error message and try again. If it persists, contact support with a screenshot for faster help.",im getting an error message during checkout
+306,Technical Support,The page is stuck loading,This is often a temporary connectivity issue. Try refreshing the page or checking your internet connection.,the page is stuck loading
+307,Technical Support,Images on the website aren't displaying correctly,Try clearing your browser cache or disabling browser extensions that might block content loading.,images on the website arent displaying correctly
+308,Technical Support,How do I clear my browser cache?,"Go to your browser settings, find ""Privacy"" or ""History,"" and select ""Clear Browsing Data"" or ""Clear Cache.""",how do i clear my browser cache
+309,Technical Support,The mobile app won't let me log in,"Make sure you're using the latest app version and correct credentials. If it still fails, try resetting your password.",the mobile app wont let me log in
+310,Technical Support,I'm not receiving any notifications from the app,Check that notifications are enabled in your phone settings and within the app's notification preferences.,im not receiving any notifications from the app
+311,Technical Support,Why can't I upload a photo for my return request?,"Make sure the photo is under the file size limit and in a supported format like JPG or PNG, then try again.",why cant i upload a photo for my return request
+312,Technical Support,The search bar isn't returning any results,"Try simplifying your search terms or checking your spelling. If the issue continues, it may be a temporary site issue.",the search bar isnt returning any results
+313,Technical Support,My discount code field won't accept input,Try refreshing the checkout page or copy-pasting the code carefully to avoid extra spaces.,my discount code field wont accept input
+314,Technical Support,The site keeps logging me out automatically,This can happen due to session timeouts or cookie settings. Make sure cookies are enabled for our site in your browser.,the site keeps logging me out automatically
+315,Technical Support,Why is the website running so slowly?,"Slow performance can be caused by your internet connection, browser extensions, or high site traffic. Try a different browser or network.",why is the website running so slowly
+316,Technical Support,I can't access my account on a new device,"Make sure you're entering the correct login details. If needed, reset your password to regain access from the new device.",i cant access my account on a new device
+317,Technical Support,The app isn't updating to the latest version,"Check your app store for available updates, and make sure your device has enough storage space.",the app isnt updating to the latest version
+318,Technical Support,Why do I keep getting logged out of the app?,Frequent logouts can be caused by outdated app versions or device storage issues. Try updating the app or restarting your device.,why do i keep getting logged out of the app
+319,Technical Support,I'm having trouble applying filters on the product page,"Try refreshing the page or disabling ad blockers, which can sometimes interfere with site filters.",im having trouble applying filters on the product page
+320,Technical Support,How do I report a bug on the website or app?,"Please contact support with a description of the issue and a screenshot if possible, so our team can investigate.",how do i report a bug on the website or app
+321,Contact & General,How can I contact customer support?,"You can reach us via live chat, email, or phone, all listed on our ""Contact Us"" page.",how can i contact customer support
+322,Contact & General,What are your customer support hours?,"Our support team is available 24/7 via chat, with phone support available during business hours.",what are your customer support hours
+323,Contact & General,How do I speak to a human agent?,"Type ""talk to an agent"" or select ""Live Support"" in the chat to be connected with a support representative.",how do i speak to a human agent
+324,Contact & General,Do you have a phone number I can call?,"Yes, our customer support phone number is listed on the ""Contact Us"" page.",do you have a phone number i can call
+325,Contact & General,What is your email address for support inquiries?,"You can reach our support team through the contact form on our ""Contact Us"" page.",what is your email address for support inquiries
+327,Contact & General,Do you have a physical store I can visit?,"Store availability varies by region. Check our ""Store Locator"" page to see if there's one near you.",do you have a physical store i can visit
+328,Contact & General,How do I leave feedback about my experience?,"You can share feedback through the ""Contact Us"" page or via the survey sent after your order.",how do i leave feedback about my experience
+329,Contact & General,How do I file a complaint?,"Please contact support with details of your concern, and our team will work to resolve it promptly.",how do i file a complaint
+330,Contact & General,Do you have a loyalty or rewards program?,"Yes, our rewards program lets you earn points on purchases that can be redeemed for discounts. Check the ""Rewards"" page for details.",do you have a loyalty or rewards program
+331,Contact & General,How do I join the rewards program?,"You can join for free by going to the ""Rewards"" page and signing up with your account.",how do i join the rewards program
+332,Contact & General,Do you offer student or military discounts?,"Yes, eligible discounts are available for students and military members; verification is required at checkout.",do you offer student or military discounts
+333,Contact & General,How do I become a seller on your platform?,"Visit our ""Sell With Us"" page to learn about requirements and start the seller application process.",how do i become a seller on your platform
+334,Contact & General,Do you have an affiliate or referral program?,"Yes, you can refer friends through your account's ""Referrals"" section and earn rewards for successful referrals.",do you have an affiliate or referral program
+335,Contact & General,What is your privacy policy?,"Our full privacy policy is available on the ""Privacy Policy"" page, detailing how we handle your data.",what is your privacy policy
+336,Contact & General,What are your terms and conditions?,"Our terms and conditions are available on the ""Terms of Service"" page on our website.",what are your terms and conditions
+337,Contact & General,Do you offer price matching?,"Price matching policies vary by item and competitor; check our ""Price Match"" page for current eligibility.",do you offer price matching
+338,Contact & General,How do I find out about upcoming sales or promotions?,"Subscribe to our newsletter or check the ""Deals"" page for the latest sales and promotions.",how do i find out about upcoming sales or promotions
+339,Contact & General,Are you hiring? How do I apply for a job?,"Visit our ""Careers"" page to view open positions and submit an application.",are you hiring how do i apply for a job
+340,Contact & General,How do I get help if my issue isn't resolved by chat?,"You can escalate to a live agent through chat, or contact us by phone or email for further assistance.",how do i get help if my issue isnt resolved by chat
